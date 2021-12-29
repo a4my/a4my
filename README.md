@@ -16,8 +16,7 @@ In order to apply for my first role as a junior developer, I'm currently working
 ### Why I should be considered as a candidate 🙂
 Despite not having a degree in computer science nor any professional experience in this field yet, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new roles which from, my understanding, is a core behavior of being a web developer. I also praise myself as being adaptable, determined, resilient, rigorous and details and processes oriented.
 
-
-
+Finally, I'm used to working remotely or on site, on my own or as part of a team and I'm happy to relocate to anywhere in the UK to better suit the needs of a role.
 
 ### Interests 🧠
   Rugby
@@ -26,6 +25,7 @@ Despite not having a degree in computer science nor any professional experience 
   . Gaming
   . Languages
   . Travels
+  . Technologies
   
 ### Languages I speak 🗣️ 
   English
