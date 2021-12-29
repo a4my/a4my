@@ -13,28 +13,22 @@ At first I wanted to focus on studying HTML, CSS, Sass and JavaScript, but the m
 ### What I'm currently working on 🔨
 In order to apply for my first role as a junior developer, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working on the social media app I'm building very soon! 
 
+### Why I should be considered as a candidate 🙂
+Despite not having a degree in computer science nor any professional experience in this field yet, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new roles which from, my understanding, is a core behavior of being a web developer. I also praise myself as being adaptable, determined, resilient, rigorous and details and processes oriented.
+
+
+
+
 ### Interests 🧠
   Rugby
   . Science
   . Space
   . Gaming
   . Languages
+  . Travels
   
-
 ### Languages I speak 🗣️ 
   English
   . French
   . Spanish
   . Japanese
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
