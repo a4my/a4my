@@ -14,7 +14,7 @@ At first I wanted to focus on studying HTML, CSS, Sass and JavaScript, but the m
 In order to apply for my first role as a junior developer, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working on the social media app I'm building very soon! 
 
 ### Interests 🧠
-    Rugby
+  Rugby
   . Science
   . Space
   . Gaming
