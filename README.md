@@ -10,12 +10,18 @@ After turning for good the music chapter of my life at the end of 2019, the need
 ### What I've been studying 🌱
 At first I wanted to focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
 
-### What I'm currently working on 🏗️
+### What I'm currently working on 🔨
 In order to apply for my first role as a junior developer, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working on the social media app I'm building very soon! 
 
-### What 
+### Interests 🧠
+  . Rugby
+  . Science
+  . Space
+  . Gaming
+  . Languages
+  . 
 
-🗣️ Languages I speak:
+### Languages I speak 🗣️ 
   . English
   . French
   . Spanish
