@@ -1,4 +1,4 @@
-## Hi there, bonjour, buenos días, こんにちは! 👋
+## Hello, bonjour, buenos días, こんにちは! 👋
 
 ### About me ℹ️
 Currently studying web development on my own and planning on applying for my first role as a junior developer in early 2022. I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
