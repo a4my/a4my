@@ -28,7 +28,7 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
   . Technologies
   
 ### Languages I speak 🗣️ 
-  English
-  . French
+  French
+  . English
   . Spanish
   . Japanese
