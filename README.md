@@ -74,6 +74,7 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
   . Japanese
   <br>
  
+ ---
 
 #### Connect with me 
 [<img align="left" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
