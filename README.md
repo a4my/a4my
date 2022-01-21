@@ -1,4 +1,6 @@
-## Hello, bonjour, buenos días, こんにちは! 👋
+<b> Hello, bonjour, buenos días, こんにちは! 👋</b>
+
+---
 
 <details>
   <summary> <b>&nbsp;About&nbsp;Me&nbsp;ℹ️&nbsp;</b></summary>
@@ -11,16 +13,28 @@ Originally, I started out as a musician and a guitar teacher, and I played in a 
 After turning for good the music chapter of my life at the end of 2019, the need for a career change, creativity and learning new things led me to studying web development.
 </details>
   
-### What I've been studying 🌱
+<details>
+  <summary> <b>What I've been studying 🌱</b></summary>
+  <br/>
+  
 At first I wanted to focus on only studying HTML, CSS, Sass and JavaScript, but the more I've been learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
+</details>
 
-### What I'm currently working on 🔨
+<details>
+  <summary> <b>What I'm currently working on 🔨</b></summary>
+  <br/>
+  
 In order to apply for my first role as a junior developer soon, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working very soon on the social media app I've been building! 
+</details>
 
-### Why I should be considered as a candidate 🙂
+<details>
+  <summary> <b>Why I should be considered as a candidate 🙂</b></summary>
+  <br/>
+
 Despite not having a degree in computer science nor any professional experience in this field yet, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new situations and roles, and I believe this is one of the core skills of being a developer. I also consider myself as being adaptable, determined, resilient, rigorous and details and processes oriented.
 
 Finally, I'm used to working remotely or on site, on my own or as part of a team and I'm happy to relocate to anywhere in the UK to better suit the needs of a role.
+</details>
 
 ---
 
@@ -38,7 +52,8 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<br/>
+<br>
+<br>
 
 
 ### Interests 🧠
