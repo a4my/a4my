@@ -1,12 +1,15 @@
 ## Hello, bonjour, buenos días, こんにちは! 👋
 
-### About me ℹ️
+<details>
+  <summary> ### About me ℹ️ </summary>
+
 Currently studying web development on my own and planning on applying for my first role as a junior developer in early 2022. I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
 
 Originally, I started out as a musician and a guitar teacher, and I played in a relatively busy rock band for 10 years. During my years in the band, I also worked in food retail, finance, customer service and sales either as a manager, a salesman or as a customer and support advisor.
 
 After turning for good the music chapter of my life at the end of 2019, the need for a career change, creativity and learning new things led me to studying web development.
-
+</details>
+  
 ### What I've been studying 🌱
 At first I wanted to focus on only studying HTML, CSS, Sass and JavaScript, but the more I've been learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
 
@@ -22,18 +25,18 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 
 ### Languages and Tools 💻
 
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
-<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <br>
 
 ### Interests 🧠
