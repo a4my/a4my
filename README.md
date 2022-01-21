@@ -40,18 +40,18 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 
 #### Languages and Tools 💻
 
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <br>
 <br>
 
