@@ -18,8 +18,8 @@ Despite not having a degree in computer science nor any professional experience 
 
 Finally, I'm used to working remotely or on site, on my own or as part of a team and I'm happy to relocate to anywhere in the UK to better suit the needs of a role.
 
-### Languages and Tools:
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+### Languages and Tools
+[<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
 
 ### Interests 🧠
   Rugby
@@ -38,4 +38,4 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 
 ### Connect with me 
 
-[<img align="left" alt="arnabdey0503 | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alex-fourmy/)
+[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alex-fourmy/)
