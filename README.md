@@ -1,7 +1,8 @@
 ## Hello, bonjour, buenos días, こんにちは! 👋
 
 <details>
-  <summary> ### About me ℹ️ </summary>
+  <summary> <b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
 Currently studying web development on my own and planning on applying for my first role as a junior developer in early 2022. I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
 
@@ -38,6 +39,7 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <br>
+<br>
 
 ### Interests 🧠
   Rugby
@@ -47,13 +49,18 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
   . Languages
   . Travels
   . Technologies
+  <br>
+  <br>
   
 ### Languages I speak 🗣️ 
   French
   . English
   . Spanish
   . Japanese
+  <br>
+  <br>
 
 ### Connect with me 
 [<img align="left" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alex-fourmy/)
+<br>
