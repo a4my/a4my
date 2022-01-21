@@ -1,7 +1,5 @@
 ## Hello, bonjour, buenos días, こんにちは! 👋
 
----
-
 ### About me ℹ️
 Currently studying web development on my own and planning on applying for my first role as a junior developer in early 2022. I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
 
@@ -22,8 +20,8 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 
 ---
 
-### Languages and Tools
-[<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
+### Languages and Tools 💻
+[<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
 
 ### Interests 🧠
   Rugby
