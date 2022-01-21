@@ -32,3 +32,5 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
   . English
   . Spanish
   . Japanese
+
+### Connect with me [linkedin](https://www.linkedin.com/in/alex-fourmy/)
