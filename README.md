@@ -21,7 +21,12 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 ---
 
 ### Languages and Tools 💻
-[<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
+
+<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
 ### Interests 🧠
   Rugby
