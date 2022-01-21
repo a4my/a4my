@@ -53,7 +53,7 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <br>
-<br>
+
 
 
 #### Interests 🧠
