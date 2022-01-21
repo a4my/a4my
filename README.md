@@ -33,4 +33,4 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
   . Spanish
   . Japanese
 
-### Connect with me [linkedin](https://www.linkedin.com/in/alex-fourmy/)
+### Connect with me [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alex-fourmy/)
