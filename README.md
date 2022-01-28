@@ -17,14 +17,14 @@ After turning for good the music chapter of my life at the end of 2019, the need
   <summary> <b>What I've been studying 🌱</b></summary>
   <br/>
   
-At first I wanted to focus on only studying HTML, CSS, Sass and JavaScript, but the more I've been learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
+At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I've been learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
 </details>
 
 <details>
   <summary> <b>What I'm currently working on 🔨</b></summary>
   <br/>
   
-In order to apply for my first role as a junior developer soon, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working very soon on the social media app I've been building! 
+In order to apply for my first role as a junior developer soon, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working very soon on the social media app I've recently started building! 
 </details>
 
 <details>
