@@ -46,6 +46,7 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
