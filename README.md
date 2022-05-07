@@ -61,7 +61,8 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
 #### Interests 🧠
   Rugby
   . Science
-  . Space exploration
+  . Space
+  . Computer science
   . Gaming
   . Languages
   . Travels
