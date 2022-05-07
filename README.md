@@ -70,10 +70,10 @@ Finally, I'm used to working remotely or on site, on my own or as part of a team
  
   
 #### Languages 🗣️ 
-  French
-  . English
-  . Spanish
-  . Japanese
+  French (native)
+  . English (fluent)
+  . Spanish (intermediate)
+  . Japanese (intermediate)
   <br>
  
  ---
