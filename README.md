@@ -6,25 +6,28 @@
   <summary> <b>About&nbsp;Me&nbsp;ℹ️&nbsp;</b></summary>
   <br/>
 
-Currently studying web development on my own and planning on applying for my first role as a junior developer in early 2022. I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
-
-Originally, I started out as a musician and a guitar teacher, and I played in a relatively busy rock band for 10 years. During my years in the band, I also worked in food retail, finance, customer service and sales either as a manager, a salesman or as a customer and support advisor.
+Originally, I started out as a musician and a guitar teacher, and I played in a relatively busy rock band for 10 years in London. During my years in the band, I also worked in food retail, finance, customer service and sales either as a manager, a salesman or as a customer and support advisor.
 
 After turning for good the music chapter of my life at the end of 2019, the need for a career change, creativity and learning new things led me to studying web development.
+  
+I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time. Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular.
+  
 </details>
   
 <details>
   <summary> <b>What I've been studying 🌱</b></summary>
   <br/>
   
-At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I've been learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
+At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. Recently I've added Angular to my studying routine since my junior developer role at PAgeSuite involve using Angular.
+  
 </details>
 
 <details>
   <summary> <b>What I'm currently working on 🔨</b></summary>
   <br/>
   
-In order to apply for my first role as a junior developer soon, I'm currently working on my own website to list all the projects I've created. I'm also building a few more MERN projects to include on my portfolio and website, and I'm hoping to finish working very soon on the social media app I've recently started building! 
+In my spare time I'm building a MERN projects and websites to include on my portfolio and website, and I'm hoping to finish working very soon on the social media app I've recently started building! 
+  
 </details>
 
 <details>
