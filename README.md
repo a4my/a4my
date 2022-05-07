@@ -10,7 +10,9 @@ Originally, I started out as a musician and a guitar teacher, and I played in a 
 
 After turning for good the music chapter of my life at the end of 2019, the need for a career change, creativity and learning new things led me to studying web development.
   
-I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time. Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular.
+I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
+  
+Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular.
   
 </details>
   
@@ -18,7 +20,9 @@ I started studying web development part-time, after work and during my weekends,
   <summary> <b>What I've been studying 🌱</b></summary>
   <br/>
   
-At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. Recently I've added Angular to my studying routine since my junior developer role at PAgeSuite involve using Angular.
+At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
+  
+Recently I've added Angular to my studying routine since my junior developer role at PAgeSuite involve using Angular.
   
 </details>
 
