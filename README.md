@@ -22,7 +22,7 @@ Fast forward to March 2022, I landed my first junior developer role at PageSuite
   
 At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
   
-Recently I've added Angular to my studying routine since my junior developer role at PAgeSuite involve using Angular.
+Recently I've added Angular to my studying routine since my junior developer role at PageSuite involves using Angular.
   
 </details>
 
