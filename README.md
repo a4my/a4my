@@ -30,7 +30,7 @@ Recently I've added Angular to my studying routine since my junior developer rol
   <summary> <b>What I'm currently working on 🔨</b></summary>
   <br/>
   
-In my spare time I'm building a MERN projects and websites to include on my portfolio and website, and I'm hoping to finish working very soon on the social media app I've recently started building! 
+In my spare time I'm building MERN projects and websites to include on my portfolio, and I'm hoping to finish working very soon on the social media app I've recently started building from scratch! 
   
 </details>
 
@@ -38,7 +38,7 @@ In my spare time I'm building a MERN projects and websites to include on my port
   <summary> <b>Why I should be considered as a candidate 🙂</b></summary>
   <br/>
 
-Despite not having a degree in computer science nor any professional experience in this field yet, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new situations and roles, and I believe this is one of the core skills of being a developer. I also consider myself as being adaptable, determined, resilient, rigorous and details and processes oriented.
+Despite not having a degree in computer science, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new situations and roles, which I believe to be core skills of being a developer. I also consider myself as being adaptable, determined, resilient, rigorous and details oriented.
 
 Finally, I'm used to working remotely or on site, on my own or as part of a team and I'm happy to relocate to anywhere in the UK to better suit the needs of a role.
 </details>
