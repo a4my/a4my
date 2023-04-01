@@ -12,7 +12,7 @@ After turning for good the music chapter of my life at the end of 2019, the need
   
 I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
   
-Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular.
+Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular, Sencha Touch, C#, AWS and more.
   
 </details>
   
@@ -30,7 +30,7 @@ Recently I've added Angular to my studying routine since my junior developer rol
   <summary> <b>What I'm currently working on 🔨</b></summary>
   <br/>
   
-In my spare time I'm building MERN projects and websites to include on my portfolio, and I'm hoping to finish working very soon on the social media app I've recently started building from scratch! 
+In my spare time I'm building MERN projects and websites to put in practice what I learn every day at work or in my self studying time, and I'm hoping to finish working very soon on the social media app I've recently started building from scratch! 
   
 </details>
 
@@ -40,7 +40,6 @@ In my spare time I'm building MERN projects and websites to include on my portfo
 
 Despite not having a degree in computer science, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new situations and roles, which I believe to be core skills of being a developer. I also consider myself as being adaptable, determined, resilient, rigorous and details oriented.
 
-Finally, I'm used to working remotely or on site, on my own or as part of a team and I'm happy to relocate to anywhere in the UK to better suit the needs of a role.
 </details>
 
 ---
