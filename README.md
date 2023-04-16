@@ -30,7 +30,7 @@ Recently I've added Angular to my studying routine since my junior developer rol
   <summary> <b>What I'm currently working on 🔨</b></summary>
   <br/>
   
-In my spare time I'm building MERN projects and websites to put in practice what I learn every day at work or in my self studying time, and I'm hoping to finish working very soon on the social media app I've recently started building from scratch! 
+In my spare time I'm building MERN projects and websites to put in practice what I learn every day at work or in my self studying time, and I'm hoping to finish working very soon on the instagram clone I've recently started building from scratch using React, Next.js, Firebase, Tailwind.css and more! 
   
 </details>
 
@@ -60,6 +60,13 @@ Despite not having a degree in computer science, I compensate with a lifetime tr
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 <br>
 
 
