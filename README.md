@@ -103,3 +103,5 @@ Despite not having a degree in computer science, I compensate with a lifetime tr
 ---
 
 ![image title](https://rushter.com/counter.svg)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=a4my)
