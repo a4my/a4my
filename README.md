@@ -65,11 +65,12 @@ Despite not having a degree in computer science, I compensate with a lifetime tr
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <br>
+<br>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 <br>
-<br>
+
 
 
 
