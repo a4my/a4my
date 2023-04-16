@@ -102,4 +102,4 @@ Despite not having a degree in computer science, I compensate with a lifetime tr
 
 ---
 
-![counter](https://github.com/a4my.m.pipedream.net)
+![image title](https://rushter.com/counter.svg)
