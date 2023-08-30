@@ -13,6 +13,8 @@ After turning for good the music chapter of my life at the end of 2019, the need
 I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
   
 Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular, Sencha Touch, C#, AWS and more.
+
+As of August 2023, I am now working at Everyone TV in London where I work with React on a daily basis.
   
 </details>
   
@@ -21,8 +23,6 @@ Fast forward to March 2022, I landed my first junior developer role at PageSuite
   <br/>
   
 At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
-  
-Recently I've added Angular to my studying routine since my junior developer role at PageSuite involves using Angular.
   
 </details>
 
@@ -34,13 +34,6 @@ In my spare time I'm building MERN projects and websites to put in practice what
   
 </details>
 
-<details>
-  <summary> <b>Why I should be considered as a candidate 🙂</b></summary>
-  <br/>
-
-Despite not having a degree in computer science, I compensate with a lifetime training in discovering and self-learning new things as well as adapting quickly to new situations and roles, which I believe to be core skills of being a developer. I also consider myself as being adaptable, determined, resilient, rigorous and details oriented.
-
-</details>
 
 ---
 
@@ -88,7 +81,7 @@ Despite not having a degree in computer science, I compensate with a lifetime tr
 #### Languages 🗣️ 
   French (native)
   . English (fluent)
-  . Spanish (intermediate)
+  . Spanish (beginner)
   . Japanese (beginner)
   . Portuguese (beginner)
   <br>
