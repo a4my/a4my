@@ -67,25 +67,21 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 
 
 #### Interests 🧠
-  Rugby
-  . Science
-  . Space
-  . Computer science
-  . Gaming
-  . Languages
-  . Travels
-  . Technologies
-  <br>
- 
-  
-#### Languages 🗣️ 
-  French (native)
-  . English (fluent)
-  . Spanish (beginner)
-  . Japanese (beginner)
-  . Portuguese (beginner)
-  <br>
- 
+- Rugby
+- Science
+- Space
+- Computer science
+- Gaming
+- Languages
+- Travels
+- Technologies
+
+#### Languages 🗣️
+- French (native)
+- English (fluent)
+- Spanish (beginner)
+- Japanese (beginner)
+- Portuguese (beginner)
  ---
 
 #### Contact
