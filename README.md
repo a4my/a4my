@@ -6,15 +6,15 @@
   <summary> <b>About&nbsp;Me&nbsp;ℹ️&nbsp;</b></summary>
   <br/>
 
-Originally, I started out as a musician and a guitar teacher, and I played in a relatively busy rock band for 10 years in London. During my years in the band, I also worked in food retail, finance, customer service and sales either as a manager, a salesman or as a customer and support advisor.
+I began my journey as a musician and guitar teacher, dedicating a decade to performing with a vibrant rock band in London. Alongside my musical endeavors, I explored diverse career paths in food retail, finance, customer service, and sales, taking on roles ranging from management to salesmanship and customer support.
 
-After turning for good the music chapter of my life at the end of 2019, the need for a career change, creativity and learning new things led me to studying web development.
-  
-I started studying web development part-time, after work and during my weekends, in May 2020. And a year later, I quit my job to study web development full time.
-  
-Fast forward to March 2022, I landed my first junior developer role at PageSuite in Ashford where I started learning and working with Angular, Sencha Touch, C#, AWS and more.
+In late 2019, driven by a desire for a fresh challenge, creative exploration, and the pursuit of new knowledge, I made the pivotal decision to transition from music and sales to software and web development.
 
-As of August 2023, I am now working at Everyone TV in London where I work with React on a daily basis.
+My journey commenced in May 2020, as I embarked on part-time studies after work and during weekends. A year later, I took the bold step of leaving my job to fully immerse myself in software and web development.
+
+Fast forward to March 2022, and I secured my first position as a junior developer at PageSuite in Ashford. there, I delved into a spectrum of technologies, including Angular, Sencha Touch, C#, and AWS, while continuously enhancing my skills.
+
+Today, as of August 2023, I'm thrilled to be part of the dynamic team at Everyone TV in London, where I engage with Javascript, Typescript and React on a daily basis, contributing to exciting projects and my ongoing growth in the world of software and web development.
   
 </details>
   
@@ -22,7 +22,7 @@ As of August 2023, I am now working at Everyone TV in London where I work with R
   <summary> <b>What I've been studying 🌱</b></summary>
   <br/>
   
-At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but the more I was learning the more I discovered new things and developed a genuine interest for frontend and backend technologies such as React, NodeJS, APIs and the MERN stack in general. 
+Initially, my primary focus was on mastering HTML, CSS, Sass, and JavaScript. However, as I delved deeper into my studies, I found myself drawn towards a broader spectrum of technologies. This journey kindled a genuine passion for both frontend and backend development, igniting my enthusiasm for technologies such as React, NodeJS, APIs, and the comprehensive MERN stack as a whole. 
   
 </details>
 
@@ -30,7 +30,7 @@ At first I wanted to only focus on studying HTML, CSS, Sass and JavaScript, but 
   <summary> <b>What I'm currently working on 🔨</b></summary>
   <br/>
   
-In my spare time I'm building MERN projects and websites to put in practice what I learn every day at work or in my self studying time, and I'm hoping to finish working very soon on the instagram clone I've recently started building from scratch using React, Next.js, Firebase, Tailwind.css and more! 
+During my free time, I'm actively engaged in crafting MERN projects and websites, applying the knowledge I gain daily at work and in my self-guided study sessions. I'm currently in the final stages of developing an Instagram clone, which I initiated from the ground up. This project leverages technologies such as React, Next.js, Firebase, Tailwind.css, and more, and I'm excited to see it come to fruition in the near future!
   
 </details>
 
