@@ -42,10 +42,8 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
@@ -57,9 +55,6 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 <br>
 <br>
