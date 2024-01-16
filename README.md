@@ -60,6 +60,10 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 <br>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a4my&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+
 
 #### Interests 🧠
 - Rugby
