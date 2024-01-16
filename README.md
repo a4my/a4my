@@ -94,7 +94,4 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=a4my)
 
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a4my&langs_count=5&theme=tokyonight)]()
-
 ---
