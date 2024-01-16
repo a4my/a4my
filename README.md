@@ -61,6 +61,10 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 
 ---
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
+---
+
 
 #### Interests 🧠
 - Rugby
