@@ -89,5 +89,7 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a4my&theme=github-dark&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=a4my)
