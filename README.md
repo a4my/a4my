@@ -61,9 +61,6 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 
 ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a4my&langs_count=5&theme=tokyonight)]()
-
----
 
 
 #### Interests 🧠
@@ -93,8 +90,14 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 <br>
 
 ---
+#### Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a4my&theme=github-dark&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=a4my)
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a4my&langs_count=5&theme=tokyonight)]()
+
+---
