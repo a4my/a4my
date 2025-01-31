@@ -1,4 +1,4 @@
-### Hello, bonjour, buenos días, bom día, こんにちは! 👋
+### Hello, bonjour, bom día! 👋
 
 ---
 
@@ -78,8 +78,6 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 #### Languages 🗣️
 - French (native)
 - English (fluent)
-- Spanish (beginner)
-- Japanese (beginner)
 - Portuguese (beginner)
  
  ---
