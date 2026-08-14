@@ -1,39 +1,60 @@
-### Hello, bonjour, bom día! 👋
+### Hello, bonjour, bom dia! 👋
+
+I'm **Alex**, a frontend developer based in the UK with **4+ years of professional experience** building production web and connected-TV applications.
+
+My main stack is **TypeScript, React and modern frontend technologies**, with experience across the full feature lifecycle — from requirements and technical design through implementation, testing, documentation and deployment.
+
+At **Everyone TV**, I work on frontend applications and internal developer tooling used around the UK's free-to-air television platforms, including work around **authentication, environment-aware routing, APIs and AWS infrastructure**.
+
+More recently, I've also been helping design and evolve an internal **Spec-Driven Development / agentic software development framework**, using specialised AI agents, reusable skills, structured workflows and Jira integration to move software from requirements through specification, implementation, testing and review.
+
+Before becoming a developer, I spent several years in sales and account management — and before that, quite a few years playing guitar in a rock band in London. 🎸
 
 ---
 
 <details>
-  <summary> <b>About&nbsp;Me&nbsp;ℹ️&nbsp;</b></summary>
+  <summary><b>My journey 🚀</b></summary>
   <br/>
 
-I began my journey as a musician and guitar teacher, dedicating a decade to performing with a vibrant rock band in London. Alongside my musical endeavors, I explored diverse career paths in food retail, finance, customer service, and sales, taking on roles ranging from management to salesmanship and customer support.
+I moved into software development after a previous career spanning music, sales, account management and team leadership.
 
-In late 2019, driven by a desire for a fresh challenge, creative exploration, and the pursuit of new knowledge, I made the pivotal decision to transition from music and sales to software and web development.
+I started studying web development alongside work in 2020 before making the career change full-time in 2021.
 
-My journey commenced in May 2020, as I embarked on part-time studies after work and during weekends. A year later, I took the bold step of leaving my job to fully immerse myself in software and web development.
+In March 2022, I joined **PageSuite** as a frontend developer, working with Angular, TypeScript, React, AWS and other technologies on digital publishing products.
 
-Fast forward to March 2022, and I secured my first position as a junior developer at PageSuite in Ashford. there, I delved into a spectrum of technologies, including Angular, Sencha Touch, C#, and AWS, while continuously enhancing my skills.
+Since August 2023, I've been at **Everyone TV**, working primarily with TypeScript and React across web applications, connected-TV applications and internal developer tooling.
 
-Today, as of August 2023, I'm thrilled to be part of the dynamic team at Everyone TV in London, where I engage with Javascript, Typescript and React on a daily basis, contributing to exciting projects and my ongoing growth in the world of software and web development.
-  
-</details>
-  
-<details>
-  <summary> <b>What I've been studying 🌱</b></summary>
-  <br/>
-  
-Initially, my primary focus was on mastering HTML, CSS, Sass, and JavaScript. However, as I delved deeper into my studies, I found myself drawn towards a broader spectrum of technologies. This journey kindled a genuine passion for both frontend and backend development, igniting my enthusiasm for technologies such as React, NodeJS, APIs, and the comprehensive MERN stack as a whole. 
-  
+Today, I'm particularly interested in frontend architecture, developer experience, AI-assisted software development and finding better ways to turn ideas into well-designed, maintainable software.
+
 </details>
 
 <details>
-  <summary> <b>What I'm currently working on 🔨</b></summary>
+  <summary><b>What I'm currently working on 🔨</b></summary>
   <br/>
-  
-During my free time, I'm actively engaged in crafting MERN projects and websites, applying the knowledge I gain daily at work and in my self-guided study sessions. I'm currently in the final stages of developing an Instagram clone, which I initiated from the ground up. This project leverages technologies such as React, Next.js, Firebase, Tailwind.css, and more, and I'm excited to see it come to fruition in the near future!
-  
+
+Professionally, I'm working on frontend and developer-tooling projects involving:
+
+- TypeScript and React
+- Authentication and OAuth/B2C flows
+- Environment-aware application architecture
+- AWS CloudFront and Lambda@Edge
+- API tooling
+- Spec-Driven Development
+- AI agents, reusable skills and development workflows
+
+Outside work, I build projects to experiment with new ideas, technologies and development workflows.
+
 </details>
 
+---
+
+#### Selected Projects 🧪
+
+**PromptCheck**  
+A local-first developer tool for analysing and improving AI prompts, including prompt scoring, suggestions, secret detection, token/model cost estimation, templates, variables and versioning.
+
+**SignalDesk**  
+A data-heavy dashboard application exploring tables, charts, asynchronous UI, state management and dashboard-style UX patterns.
 
 ---
 
@@ -46,41 +67,40 @@ During my free time, I'm actively engaged in crafting MERN projects and websites
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+
 <br>
 <br>
 
 ---
 
-
-
 #### Interests 🧠
-- Rugby
-- Science
-- Space
-- Computer science
-- Gaming
-- Languages
-- Travels
-- Technologies
+
+- Rugby 🏉
+- Science & space 🚀
+- Game development 🎮
+- Technology 💻
+- Languages 🗣️
+- Travel ✈️
+- Music 🎸
 
 ---
 
 #### Languages 🗣️
-- French (native)
-- English (fluent)
-- Portuguese (beginner)
- 
- ---
+
+- 🇫🇷 French — Native
+- 🇬🇧 English — Fluent
+- 🇧🇷 Portuguese — Beginner
+
+---
 
 #### Contact
 [<img align="left" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://my-portfolio-a4my.vercel.app/)
