@@ -48,16 +48,6 @@ Outside work, I build projects to experiment with new ideas, technologies and de
 
 ---
 
-#### Selected Projects 🧪
-
-**PromptCheck**  
-A local-first developer tool for analysing and improving AI prompts, including prompt scoring, suggestions, secret detection, token/model cost estimation, templates, variables and versioning.
-
-**SignalDesk**  
-A data-heavy dashboard application exploring tables, charts, asynchronous UI, state management and dashboard-style UX patterns.
-
----
-
 #### Languages and Tools 💻
 
 <img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
@@ -96,9 +86,9 @@ A data-heavy dashboard application exploring tables, charts, asynchronous UI, st
 
 #### Languages 🗣️
 
-- 🇫🇷 French — Native
-- 🇬🇧 English — Fluent
-- 🇧🇷 Portuguese — Beginner
+- French — Native
+- English — Fluent
+- Portuguese — Beginner
 
 ---
 
